@@ -4,7 +4,7 @@
 
 
 
-<p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
+<p align="center">Join modded servers without worrying about installing Java. We'll handle that for you.</p>
 
 ![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
 ![Screenshot 2](https://i.imgur.com/x3B34n1.png)
@@ -61,12 +61,3 @@ We reserve the right to update these conditions at any time, please check back p
 
 ### See you ingame.
 
-[nodejs]: https://nodejs.org/en/ "Node.js"
-[vscode]: https://code.visualstudio.com/ "Visual Studio Code"
-[mainprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes "Main Process"
-[rendererprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes "Renderer Process"
-[chromedebugger]: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome "Debugger for Chrome"
-[discord]: https://discord.gg/zNWUXdt "Discord"
-[wiki]: https://github.com/RepoNguls/barambailauncheinfo/wiki "wiki"
-[nebula]: https://github.com/RepoNguls/Nebula "dscalzi/Nebula"
-[v2branch]: https://github.com/RepoNguls/barambailauncheinfo/tree/ts-refactor "v2 branch"
